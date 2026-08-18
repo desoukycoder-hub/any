@@ -1,0 +1,106 @@
+{
+  "users": {
+    "1415118921534668820": {
+      "user_id": 1415118921534668820,
+      "username": "r.i.v.o",
+      "balance": 10000009183378,
+      "total_views": 248126,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 0,
+      "created_at": "2026-08-10T05:15:28.356420",
+      "last_active": "2026-08-18T04:52:56.774077"
+    },
+    "1465420096783650938": {
+      "user_id": 1465420096783650938,
+      "username": "_.7sm",
+      "balance": 0,
+      "total_views": 0,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 0,
+      "created_at": "2026-08-10T05:18:44.420400",
+      "last_active": "2026-08-10T05:18:44.420435"
+    },
+    "963087769670930444": {
+      "user_id": 963087769670930444,
+      "username": "reallymnw3atty",
+      "balance": 0,
+      "total_views": 0,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 0,
+      "created_at": "2026-08-10T05:18:55.786445",
+      "last_active": "2026-08-10T05:18:55.786473"
+    },
+    "1326649169649340553": {
+      "user_id": 1326649169649340553,
+      "username": "sirabdo_.",
+      "balance": 5001,
+      "total_views": 1001,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 5000,
+      "created_at": "2026-08-10T05:19:17.279888",
+      "last_active": "2026-08-10T06:26:17.435508"
+    },
+    "1311805317025366081": {
+      "user_id": 1311805317025366081,
+      "username": "master_v00",
+      "balance": 0,
+      "total_views": 0,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 0,
+      "created_at": "2026-08-10T06:18:24.843246",
+      "last_active": "2026-08-10T06:18:24.843258"
+    },
+    "976906783480229918": {
+      "user_id": 976906783480229918,
+      "username": "q5bm",
+      "balance": 0,
+      "total_views": 0,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 0,
+      "created_at": "2026-08-10T08:55:28.883771",
+      "last_active": "2026-08-10T08:55:28.883798"
+    },
+    "1517408814800830586": {
+      "user_id": 1517408814800830586,
+      "username": "black0196",
+      "balance": 200,
+      "total_views": 0,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 100,
+      "created_at": "2026-08-12T10:56:19.948159",
+      "last_active": "2026-08-12T11:05:37.695911"
+    },
+    "1118924655210795149": {
+      "user_id": 1118924655210795149,
+      "username": "laith_ayad",
+      "balance": 0,
+      "total_views": 0,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 0,
+      "created_at": "2026-08-12T16:29:25.490969",
+      "last_active": "2026-08-12T16:29:25.491027"
+    },
+    "1438679116017569924": {
+      "user_id": 1438679116017569924,
+      "username": "desouky4edits",
+      "balance": 100000,
+      "total_views": 0,
+      "is_banned": false,
+      "ban_reason": "",
+      "pending_credits": 0,
+      "created_at": "2026-08-18T05:48:00.960782",
+      "last_active": "2026-08-18T05:49:34.558650"
+    }
+  },
+  "ticket_counter": 18,
+  "pending_charges": {},
+  "_pending_tickets": {}
+}
